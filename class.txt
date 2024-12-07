@@ -1,3 +1,7 @@
 Pink
 Violet
 Teal
+blue 
+black
+white
+red
